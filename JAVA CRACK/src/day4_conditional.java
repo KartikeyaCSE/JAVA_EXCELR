@@ -11,4 +11,4 @@
 
 // cigarParty(30, false) → false
 // cigarParty(50, false) → true
-// cigarParty(70, true) → true
+// cigarParty(70, true) → truen
